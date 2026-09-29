@@ -90,3 +90,6 @@ The notebook additionally requires `pandas`, `matplotlib`, and `seaborn` for dat
 ## License
 
 No license has been specified for this repository. Add one before distributing or reusing the project.
+## 🚀 Live Demo
+
+[**Try the Email Spam Detector →**](https://email-spam-detector403.streamlit.app/)
